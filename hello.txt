@@ -1,5 +1,5 @@
 hello world!
 
-222222222
+66666
 
-echo "study"
+!dlrow olleh
